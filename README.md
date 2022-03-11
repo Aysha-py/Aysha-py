@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on being a frontend web developer
-- 🌱 I’m currently learning HTML, CSS and JAVASCRIPT
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT and REACT
 - 👯 I’m looking to collaborate on beginner projects
 - 🤔 I’m looking for help with useful frontend resources 
 - 💬 Ask me about what i am learning
