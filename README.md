@@ -9,3 +9,5 @@
 - 💬 Ask me about what i am learning
 - 📫 How to reach me: m.aishat9890@gmail.com
 - ⚡ Fun fact: ... Still figuring that out, lol
+- 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Aysha-py&layout=compact)
