@@ -6,6 +6,6 @@
 - 💬 Ask me about what i am learning
 - 📫 How to reach me: m.aishat9890@gmail.com 
 
-[![Aysha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aysha&theme=radical&show_icons=true)](https://github.com/Aysha-py/github-readme-stats)
+
 
 
