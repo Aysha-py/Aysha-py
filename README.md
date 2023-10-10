@@ -10,3 +10,4 @@
 
 
 [![Aysha's github stats](https://github-readme-stats.vercel.app/api?username=Aysha-py)](https://github.com/anuraghazra/github-readme-stats)
+[![An image of @aysham's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aysham)](https://holopin.io/@aysham)
